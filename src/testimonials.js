@@ -170,7 +170,7 @@ export const testimonials = [
   {
     slug: 'client-9',
     videoId: 'JNbAxOS2Xy0',
-    name: 'Катерина (Кати)',
+    name: 'Катерина (Kitty K)',
     company: 'TikTok агенция & UGC менторска програма',
     role: 'Основател, 20 г.',
     description:
@@ -227,7 +227,7 @@ export const testimonials = [
   {
     slug: 'client-12',
     videoId: 'UM6D2KuFQvM',
-    name: 'Марио Дерганчев',
+    name: 'Марио Драганчев',
     company: 'High-ticket продажби',
     role: 'Търговец, 34 г.',
     description:
